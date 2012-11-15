@@ -1,4 +1,6 @@
 
+This is my second test - AG 11/15/12 at 3.58p.m.
+
 fmi_test --AG 11/15/2012
 
 CONTENTS OF THIS FILE
