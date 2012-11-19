@@ -205,7 +205,7 @@
         </ul>
       <?php endif; ?>
       <?php print render($page['content']); ?>
-      <?php //print $feed_icons; ?>
+      <?php print $feed_icons; ?>
 
     </div></div> <!-- /.section, /#content -->
 
